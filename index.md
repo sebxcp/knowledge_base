@@ -1,3 +1,6 @@
 # Knowledge Base
 
-- [General Notes](gen.md)
+Welcome to my notes.
+
+## Sections
+- [General notes](gen.md)
